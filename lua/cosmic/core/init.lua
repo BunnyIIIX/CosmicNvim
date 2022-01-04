@@ -6,6 +6,7 @@ local cosmic_modules = {
   'cosmic.config.editor',
   'cosmic.core.mappings',
   'cosmic.config.mappings',
+  'cosmic.config.autocommands',
 }
 
 for _, mod in ipairs(cosmic_modules) do
